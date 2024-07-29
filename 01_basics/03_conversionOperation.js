@@ -36,7 +36,7 @@ let negValue = -value
 // console.log(2+2);
 // console.log(2-2);
 // console.log(2*2);
-// console.log(2**3);
+// console.log(2**3);//it is two ki power3
 // console.log(2/3);
 // console.log(2%3);
 
@@ -51,7 +51,7 @@ let str3 = str1 + str2
 // console.log("1" + 2 + 2);
 // console.log(1 + 2 + "2");
 
-// console.log( (3 + 4) * 5 % 3);
+// console.log( (3 + 4) * 5 % 3);//very bad way to write, writ in brackets
 
 // console.log(+true);
 // console.log(+"");
